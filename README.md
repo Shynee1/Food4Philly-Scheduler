@@ -14,7 +14,7 @@ Food4Philly Chapters are required to host food distribution events at Hunting Pa
 ### Instructions
 1. Make a copy of the [Food4Philly Scheduling Tool](https://docs.google.com/spreadsheets/d/1IhYfSgpNMPU-sX7-uGrvRPEIMY8iSTvQxfbyYhk_SnM/copy)
 2. Click the chapter dropdown and select your chapter
-  a. If your chapter is not in the dropdown, click the "Refresh Chapters" button and try again
-3. Click the "Submit" button and accept the authorization request
-4. If alerted that Google has not verified the app, click "Advanced" and "Go to Food4Philly Scheduling Tool (unsafe)"
-5. If you accidentally selected the wrong chapter, click the "delete all events" button
+    a. If your chapter is not in the dropdown, click the "Refresh Chapters" button and try again
+4. Click the "Submit" button and accept the authorization request
+5. If alerted that Google has not verified the app, click "Advanced" and "Go to Food4Philly Scheduling Tool (unsafe)"
+6. If you accidentally selected the wrong chapter, click the "delete all events" button
