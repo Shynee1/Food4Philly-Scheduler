@@ -1,6 +1,6 @@
 # Food4Philly-Scheduler
 
-Fod4Philly Chapters are required to host food distribution events at Hunting Park on specific dates throughout the year. This simple tool allows chapters to add these dates to their Google Calendar using a Google Sheets UI. In addition, this program handles scheduling new chapters that are added during the year by grouping them with pre-existing chapters. This tool ensures that all chapters remember to host their respective food distribution events and makes it easier for high school students to stay organized. 
+Food4Philly Chapters are required to host food distribution events at Hunting Park on specific dates throughout the year. This simple tool allows chapters to add these dates to their Google Calendar using a Google Sheets UI. In addition, this program handles scheduling new chapters that are added during the year by grouping them with pre-existing chapters. This tool ensures that all chapters remember to host their respective food distribution events and makes it easier for high school students to stay organized. 
 
 ![GUI](https://github.com/Shynee1/Food4Philly-Scheduler/blob/main/Scheduler_GUI.png)
 
