@@ -274,3 +274,12 @@ function onRefreshClick() {
     ui.ButtonSet.OK
   );
 }
+
+/**
+* Loads HTML instructions for using the scheduler
+* Called when "Instructions" button is pressed
+*/
+function onInstructionsClick() {
+  var widget = HtmlService.createHtmlOutputFromFile("Instructions.html");
+  SpreadsheetApp.getUi().showModalDialog(widget, "Welcome to the Food4Philly Scheduling Tool!");
+}
